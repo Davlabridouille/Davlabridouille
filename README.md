@@ -1,7 +1,7 @@
 ## Whoami
 - 👋 Hi, I’m __David Roméo AMEDOMEY__ *@damedomey*
 - 👀 I’m interested in __system and network administration__ and __cyber security__.
-- 🌱 I'm currently studying at the University Institute __les Cours Sonou__ in the field of SIL (Computer System and Software).
+- 🌱 I am currently a master student in computer science at the University __Côte d'Azur__.
 - 💞️ I am looking to collaborate on projects that will allow me to learn new things. Obviously cyber security or administration oriented.
 - 📫 How to reach me ...
 
