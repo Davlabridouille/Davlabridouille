@@ -14,6 +14,8 @@ Frankly, I rarely make desktop applications (actually)... I usually develop desk
 a little bit of python3 too.
 
 ## Weakness...
+![WhatsApp Image 2023-07-25 at 23 01 31](https://github.com/damedomey/damedomey/assets/62824558/2e15c6f3-d544-4e71-b8d4-1d2ef30dff2e)
+
 - Design🙈...
 I design interfaces without worries, but if I have to design them from scratch, then good luck to you🤭😅. Nevertheless, I can improve existing mockups or interfaces.💪
 
